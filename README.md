@@ -1,0 +1,2 @@
+# Pushdown-Space-X
+A game made with Java for Computational Theory. In this games you earn points with the use of a Stack, where every time you make a "pop" you get points. In the game you face enemy UFOs that when killerd will trigger a push on the stack, and to empty it you need to gather a Lambda that can be found on the board. You will lose points when you make a pop an the stack is empty, or when you make a push and you've already reached the stacks limit.
